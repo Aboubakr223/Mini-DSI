@@ -106,7 +106,7 @@ sudo crontab -e
 | Script rsync backup             | Mustapha    | ✅  |
 | Procédure d'installation        | Ayman       | ✅  |                    
 | procédure de restauration       | Ayman       | ✅  |
-| Audit Nmap                      | tous        | ✅  |         
+| Audit Nmap                      | Ayman       | ✅  |         
 | Dépôt Git                       | tous        | ✅  |
 | Slides soutenance               | tous        | ✅  |
 
