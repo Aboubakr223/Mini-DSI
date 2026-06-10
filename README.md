@@ -61,8 +61,7 @@ Mini-DSI/
 │   │   └── smb.conf                ← configuration Samba avec ACL AD
 │   └── gpo/
 │       └── gpo-description.md      ← politiques GPO documentées
-
----
+````
 
 ## Démarrage rapide
 
@@ -72,7 +71,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 .\scripts\powershell\deploy-ad.ps1     # Installe AD + redémarre
 # Après redémarrage :
 .\scripts\powershell\create-users.ps1  # Crée les 15 utilisateurs
-```
 
 ### 2. FILE01 — Serveur de fichiers
 ```bash
